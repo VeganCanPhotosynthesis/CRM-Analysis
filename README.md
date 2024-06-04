@@ -10,7 +10,6 @@ This project aims to analyze customer data from an e-commerce platform to derive
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -90,10 +89,4 @@ Follow the steps in the notebook to perform data understanding, cleaning, and an
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a comprehensive overview of the CRM Analytics project, including setup instructions and project structure. If you need any modifications or additional details, let me know!
